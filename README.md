@@ -1,1 +1,1 @@
-JUST A SAMPLE APPLICATION FOR DOCKER THINGS
+**NOTE** : Created a sample application to test my dockerfile and is not a production ready application
